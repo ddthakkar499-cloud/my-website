@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Website</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="top">
+  <h1>My Website</h1>
+  <a href="login.html" class="btn">Login</a>
+</header>
+
+<section class="hero">
+  <h2>Welcome</h2>
+  <p>This is my first GitHub website.</p>
+</section>
+
+<footer class="footer">
+  <div>
+    <h4>Product</h4>
+    <p>Showcase</p>
+    <p>Preview</p>
+    <p>Deploy</p>
+  </div>
+  <div>
+    <h4>Resources</h4>
+    <p>Docs</p>
+    <p>Learn</p>
+    <p>Blog</p>
+  </div>
+  <div>
+    <h4>About</h4>
+    <p>Company</p>
+    <p>Careers</p>
+  </div>
+  <div>
+    <h4>Legal</h4>
+    <p>Privacy</p>
+    <p>Terms</p>
+  </div>
+</footer>
+
+</body>
+</html>
+

@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f8f9fa;
+}
+
+.top {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background: #a8dadc;
+}
+
+.btn {
+  background: #457b9d;
+  color: white;
+  padding: 8px 14px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.hero {
+  text-align: center;
+  padding: 60px;
+}
+
+.footer {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  padding: 30px;
+  background: white;
+}

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body onload="checkLogin()">
+
+<header class="top">
+  <h2>Dashboard</h2>
+  <button class="btn" onclick="logout()">Logout</button>
+</header>
+
+<section class="hero">
+  <h3>Design Prompt</h3>
+  <textarea placeholder="Enter your website idea"></textarea>
+</section>
+
+<script src="script.js"></script>
+</body>
+</html>
